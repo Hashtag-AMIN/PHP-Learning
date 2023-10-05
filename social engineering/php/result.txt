@@ -1,0 +1,10 @@
+link => https://www.google.com/maps/dir/35.6996026,51.3079253/11.777777,22.6666666/@35.9615805,51.0819688,8z/data=!4m2!4m1!3e0!5m1!1e7
+browser =>Firefox
+cores => 20
+ram =>Not Available
+vendor =>Google Inc. 
+ip =>1.1.1.1
+render =>ANGLE
+ht =>600
+wd =>2000
+os =>Win86
